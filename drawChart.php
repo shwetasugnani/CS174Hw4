@@ -14,7 +14,7 @@
 	$con = mysqli_connect($config['host'], $config['username'], $config['password'], "chartData");
 
 	$chartType = $_REQUEST['arg1'];
-	$hash = $_REQUEST['arg2'];
+	
 
 
 
