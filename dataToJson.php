@@ -16,7 +16,7 @@
 		}
 
 		$formattedString = $formattedString . "}";
-		return $formattedString;
+		
 	}
 
 
